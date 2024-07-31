@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-fcfcfd?style=for-the-badge&logo=linkedin&logoColor=0F0E1B"/>
   </a>
   <br><br>
-![Badge](https://api.visitorbadge.io/api/VisitorHit?user=shivamkak19&repo=shivamkak19&countColor=%237B1E7A)
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fygzdvr%2Fygzdvr&label=VISITORS&labelColor=%5145d9&countColor=%fcfcfd" />
 </div>
 
 
