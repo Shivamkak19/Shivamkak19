@@ -17,8 +17,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32"/> About Me
 - 🎓 I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
-- 📝 I am pursuing minors in Applied & Computational Mathematics, Statistics & Machine Learning, and Robotics & Intelligent Systems.
-- 🖥️ I am currently working on a stealth startup in the consumer social media space - stay tuned :)
+- 📝 I am pursuing a minor in Mathematics.
+- 🖥️ Working on a stealth startup in the consumer social media space - stay tuned :)
 
 
 
