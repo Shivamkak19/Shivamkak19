@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://skstud.io/">
+  <a href="https://shivamkak19.github.io/">
 <img src="https://raw.githubusercontent.com/Shivamkak19/Shivamkak19/main/logo_pin.gif" alt="# 👋 Hello World! I'm Shivam Kak" title="# 👋 Hello World! I'm Shivam Kak" style="width: 100%; height: auto;"/>
   </a>
   <br>
