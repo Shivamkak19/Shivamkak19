@@ -16,13 +16,13 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32"/> About Me
-- 🎓 I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
-- 📝 I am pursuing a minor in Mathematics.
-- 🖥️ Working on a stealth startup in the consumer social media space - stay tuned :)
+- I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
+- I am pursuing a minor in Mathematics.
+- Working on a stealth startup in the consumer social media space - stay tuned :)
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" />How to reach me ...
+## How to reach me
 - Email (preferred): sk3686@princeton.edu
 -  🐦‍⬛ Twitter (preferred): [KakShivam](https://twitter.com/KakShivam)
--  💼 LinkedIn (not preferred): [shivamkak](https://linkedin.com/in/shivamkak/)
+-  LinkedIn (not preferred): [shivamkak](https://linkedin.com/in/shivamkak/)
